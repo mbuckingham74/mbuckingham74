@@ -11,5 +11,5 @@ Full-stack developer passionate about building scalable web applications with mo
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-  📍 Currently working on: [Meteo App](https://github.com/mbuckingham74/meteo-app) - Weather application with AI integration
+  📍 Currently working on: [Meteo Weather](https://github.com/mbuckingham74/meteo-weather) - Weather application with AI integration
 
