@@ -13,11 +13,14 @@ Full-stack developer passionate about building scalable web applications with mo
 
   📍 Currently working on: [Meteo Weather](https://github.com/mbuckingham74/meteo-weather) - Weather application with AI integration
 
-    ---
+  ---
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbuckingham74&theme=default&hide_border=true" alt="GitHub Streak" />
+  </p>
 
   <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=mbuckingham74&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&hide_rank=true"
    />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbuckingham74&layout=compact&theme=default&hide_border=true&hide_title=true" />
   </p>
-
