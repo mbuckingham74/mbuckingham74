@@ -1,4 +1,4 @@
-# Hi there, I'm Michael Buckingham 👋
+# Hi there, I'm Michael 👋
 
 Full-stack developer passionate about building scalable web applications with modern technologies. I'm self-taught and embracing AI to help me with documentation, automation and automated testing.
 
