@@ -12,7 +12,7 @@ Full-stack developer passionate about building scalable web applications with mo
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
   📍 Currently working on: [Meteo Weather](https://github.com/mbuckingham74/meteo-weather) - Weather application with AI integration
-     Mom's Recipes: https://moms-recipes.tachyonfuture.com - Recipe Database App with AI for parsing PDFs, recipe cards, images and links of recipes
+  📍 Mom's Recipes: https://moms-recipes.tachyonfuture.com - Recipe Database App with AI for parsing PDFs, recipe cards, images and links of recipes
 
   ---
 
