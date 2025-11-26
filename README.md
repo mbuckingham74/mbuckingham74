@@ -1,6 +1,6 @@
 # Hi there, I'm Michael 👋
 
-Full-stack developer passionate about building scalable web applications with modern technologies. I'm self-taught and embracing AI to help me with documentation, automation and automated testing.
+Full-stack developer based in Northern Spain. I'm passionate about building scalable web applications with modern technologies. I'm self-taught and embracing AI to help me with documentation, automation and automated testing.
 
   ### Tech Stack
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
