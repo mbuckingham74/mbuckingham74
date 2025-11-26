@@ -11,11 +11,13 @@ Full-stack developer based in Northern Spain. I'm passionate about building scal
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-  📍 Currently working on: [Meteo Weather](https://github.com/mbuckingham74/meteo-weather) - Weather application with AI integration
-
-  📍 Mom's Recipes: https://moms-recipes.tachyonfuture.com - Recipe Database App with AI for parsing PDFs, recipe cards, images and links of recipes
-
   📍 Far Reach Jobs: https://far-reach-jobs.tachyonfuture.com - Job aggregator for remote Alaskan communities and bush villages
+
+  📍 Mom's Recipes: https://moms-recipes.tachyonfuture.com - AI powered recipes app
+  
+  📍 Meteo Weather: (https://github.com/mbuckingham74/meteo-weather) - Weather application with AI integration
+
+
 
   ---
 
