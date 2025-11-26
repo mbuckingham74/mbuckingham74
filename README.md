@@ -15,6 +15,8 @@ Full-stack developer passionate about building scalable web applications with mo
   
   📍 Mom's Recipes: https://moms-recipes.tachyonfuture.com - Recipe Database App with AI for parsing PDFs, recipe cards, images and links of recipes
 
+  📍 Far Reach Jobs: https://far-reach-jobs.tachyonfuture.com - Job aggregator for remote Alaskan communities and bush villages
+
   ---
 
   <p align="center">
