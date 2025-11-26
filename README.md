@@ -12,7 +12,7 @@ Full-stack developer passionate about building scalable web applications with mo
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
   📍 Currently working on: [Meteo Weather](https://github.com/mbuckingham74/meteo-weather) - Weather application with AI integration
-  
+
   📍 Mom's Recipes: https://moms-recipes.tachyonfuture.com - Recipe Database App with AI for parsing PDFs, recipe cards, images and links of recipes
 
   📍 Far Reach Jobs: https://far-reach-jobs.tachyonfuture.com - Job aggregator for remote Alaskan communities and bush villages
@@ -20,8 +20,7 @@ Full-stack developer passionate about building scalable web applications with mo
   ---
 
   <p align="center">
-    <img height="100" src="https://github-readme-streak-stats-eight.vercel.app/?user=mbuckingham74&theme=default&hide_border=true" />
-    <img height="100" src="https://github-readme-stats.vercel.app/api?username=mbuckingham74&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&hide_rank=true"
-   />
-    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbuckingham74&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=4" />
+    <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=mbuckingham74&theme=default&hide_border=true" />
+    <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mbuckingham74&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&hide_rank=true" />
+    <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mbuckingham74&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=4" />
   </p>
