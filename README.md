@@ -15,7 +15,7 @@ I'm a full-stack developer who is passionate about building scalable web applica
 
   📍 Mom's Recipes: https://moms-recipes.tachyonfuture.com - AI powered recipes app
   
-  📍 Meteo Weather: (https://github.com/mbuckingham74/meteo-weather) - Weather application with AI integration
+  📍 Meteo Weather: https://github.com/mbuckingham74/meteo-weather - Weather application with AI integration
 
 
 
