@@ -9,13 +9,7 @@ I'm a full-stack developer who is passionate about building scalable web applica
   ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-  📍 Far Reach Jobs: https://far-reach-jobs.tachyonfuture.com - Job aggregator for remote Alaskan communities and bush villages
-
-  📍 Mom's Recipes: https://moms-recipes.tachyonfuture.com - AI powered recipes app
-  
-  📍 Meteo Weather: https://github.com/mbuckingham74/meteo-weather - Weather application with AI integration
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white
 
 
 
